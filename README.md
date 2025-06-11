@@ -1,4 +1,3 @@
- EDUNET
 
 🎨 Extracting Dominant Hues with KMeans Clustering
 
